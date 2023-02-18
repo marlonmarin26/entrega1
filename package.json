@@ -1,17 +1,31 @@
 {
-  "name": "activity-api",
+  "name": "entrega1",
   "version": "1.0.0",
-  "description": "Activity for programation iii",
+  "description": "Entrega 1 Programacion 3",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonmarin26/entrega1.git"
+  },
   "keywords": [
-    "academic",
-    "rest",
+    "barrio",
+    "casa",
     "api",
-    "activity"
+    "rest"
   ],
-  "author": "Marlon Marin",
-  "license": "ISC"
+  "author": "Jhon Esteban Rodriguez, Marlon Marín, Arcenio Adames, Alejandro Benitez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlonmarin26/entrega1/issues"
+  },
+  "homepage": "https://github.com/marlonmarin26/entrega1#readme",
+  "dependencies": {
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "mongoose-unique-validator": "^3.1.0"
+  }
 }

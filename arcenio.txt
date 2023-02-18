@@ -1,4 +1,0 @@
-archivo de prueba de conexion 
-
-conexion exitosa
-modificacion alejandro

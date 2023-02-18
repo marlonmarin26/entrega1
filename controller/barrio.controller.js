@@ -1,1 +1,0 @@
-/** un comentario cualquiera */

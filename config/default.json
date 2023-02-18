@@ -1,0 +1,10 @@
+{
+    "db-connections": {
+        "mongodb": {
+            "host": "cluster0.me7bzle.mongodb.net",
+            "user": "restapi_user",
+            "password": "admin12345",
+            "dbname": "restapiDB"
+        }
+    }
+}

@@ -1,1 +1,1 @@
-"un comentario cualquiera"
+/** un comentario cualquiera */
